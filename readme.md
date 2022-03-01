@@ -12,7 +12,7 @@ Command Line Tools
 Visual Studio Code
 Installation
 # Get the latest snapshot
-git clone https://github.com/KunalS713/Hospital-API.git 
+git clone https://github.com/KunalS713/Hospital-APi.git 
 
 # Change directory
 cd myproject
